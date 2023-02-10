@@ -1,1 +1,3 @@
 kihon
+git add
+git commit
